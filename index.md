@@ -1,5 +1,9 @@
 ## Hey what's good People!!??
 
+#I am over here trying to create a site. It looks like trash for now, but I am working on polishing it. Bear with me! :D
+
+#I don't know what the heck is down here, but I am leaving them here for now, in case they are important LOL
+
 You can use the [editor on GitHub](https://github.com/tquach123/frank-quach/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

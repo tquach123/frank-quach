@@ -2,4 +2,6 @@
 title: "about"
 ---
 
-# About my website
+# Frank is a 2nd year grad student at Towson
+
+# Research Interest: Aquatic Ecology, Benthic Ecology
